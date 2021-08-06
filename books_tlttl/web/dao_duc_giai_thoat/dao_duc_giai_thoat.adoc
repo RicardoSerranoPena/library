@@ -14,9 +14,10 @@ Sách này chỉ kính biếu, không bán!
 Ước mong mọi người sống không làm khổ mình, khổ người và khổ chúng sanh.
 
 [#image000]
-image::image-000.jpg[]
+.*_“Lớp lớp tầng mây đùn núi bạc Chim nguyên cánh nhỏ bóng hoàng hôn!!”_*
+image::image-000.jpg[*_“Lớp lớp tầng mây đùn núi bạc Chim nguyên cánh nhỏ bóng hoàng hôn!!”_*]
 
-*_“Lớp lớp tầng mây đùn núi bạc Chim nguyên cánh nhỏ bóng hoàng hôn!!”_*
+
 
 GHI LẠI BÀI VIẾT CỦA THẦY
 (DO CHÍNH THẦY ĐỌC)
