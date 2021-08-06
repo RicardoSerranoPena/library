@@ -1,0 +1,6 @@
+= ĐẠO ĐỨC GIẢI THOÁT
+TRƯỞNG LÃO THÍCH THÔNG LẠC
+:keywords: keywords, will, be, separated, by, commas 
+:doctype: book
+:sectlinks:
+:icons: font
