@@ -1,0 +1,8 @@
+= TRƯỞNG LÃO THÍCH THÔNG LẠC LIBRARY
+
+A Collection of all the books and audio transcription used for the modern library project, written or spoken by Trưởng Lão Thích Thông Lạc. 
+
+A repository to manage all the documents our digital library will need. 
+This repository can be seen by anyone and will be supported by many people to help us correct and transcribe the audio files from Trưởng Lão Thích Thông Lạc.
+
+See the xref:QuickSyntazAsciiDocGuide.adoc[Quick Syntax Guide] to learn the necessary AsciiDoc syntax to transcribe books.

@@ -1,0 +1,11 @@
+= Quick Guide on How to Use Asciidoctor Syntax
+
+
+ = ĐẠO ĐỨC GIẢI THOÁT
+ TRƯỞNG LÃO THÍCH THÔNG LẠC
+ :keywords: keywords, will, be, separated, by, commas 
+ :doctype: book
+ :sectlinks:
+ :icons: font
+ :imagesdir: media
+ :caption: 
