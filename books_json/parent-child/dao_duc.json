@@ -1,0 +1,109 @@
+[
+    {
+        "book_id": "2",
+        "book_name": "Đạo đức giải thoát",
+        "chapters": ["Đạo đức giải thoát"],
+        "book_join": "book"
+    },
+    {
+        "page_id": "2001",
+        "page_num": "1",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "Hôm nay Thầy nói chuyện với cháu Tuyền: Này con! Đã lâu lắm rồi, Thầy dự định dạy con cách tu hành từ đức hạnh giải thoát cho đến Thiền Định và Trí Tuệ Vô Lậu. Nhưng Thầy có nhiều việc phải làm, nên phải dồn hết thì giờ để dẫn dắt quý thầy tu tập Thiền Định và Phạm Hạnh. Vì trải qua một thời gian dài, đã có nhiều người theo Thầy tu hành đến nay vẫn chưa có kết quả. Vì thế, Thầy không rảnh rang để hướng dẫn con được. Hôm nay, thầy Mật Hạnh và thầy Từ Minh đã nhập được An Chỉ Định đầu tiên. Tâm thanh tịnh giải thoát đã xuất hiện! Quý Thầy đã nhận rõ kết quả vi diệu của đạo Phật không phải là lời nói suông, nên càng tinh tấn nỗ lực tu hành hơn, càng dũng mãnh tiếp tục nhập các định khác. Phải nói, kết quả của một năm sáu tháng nhập thất tu đúng pháp, không sai lời dạy của Thầy nên đã có được hai người thành tựu sơ khởi Thiền Định. Xét lại tâm mình, quý Thầy đã nhận rõ con đường tu của mình không còn sợ lạc vào thiền tà, chính là con đường của đạo Phật. Tại sao quý Thầy lại biết được như vậy? Như Thầy đã nói, quý Thầy xét lại tâm mình thấy rõ sự thanh tịnh của tâm, tức là sự ham muốn dục lạc thế gian đã giảm đi rất nhiều tạo thành một tâm thanh tịnh, an lạc nhẹ nhàng, hỷ lạc khinh an. Đó là",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2002",
+        "page_num": "2",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "một trạng thái giải thoát tâm ra khỏi tham, sân, si và ái. Vì thế, chính đây mới là con đường tu thiền định của đạo Phật.Sự thành tựu của quý Thầy chứng tỏ đạo Phật sẽ được làm sáng tỏ và sẽ chấn hưng lại được. Nhất là thời đại hôm nay, các con là những Phật tử sống trong giai đoạn Phật pháp chánh tà lẫn lộn khó phân biệt. Vậy mà hôm nay có người tu được, chứng được để các con nhận rõ đây chính là duyên lành còn sâu đậm của các con với Phật pháp.Vì sự tu hành của hai Thầy này có kết quả, nên Thầy tạm yên lòng, ngồi lại ghi bài pháp hôm nay để hướng dẫn các con về ĐẠO ĐỨC GIẢI THOÁT, và chính con cũng phải biết bài pháp này là nền tảng cơ bản vững chắc cho con đường tu thiền định của các con về sau.Mẹ con đã nhiều lần xin Thầy bài pháp về Đức Hạnh Giải Thoát để tự tu học và hướng dẫn các con. Thầy đã hứa, nhưng mãi đến hôm nay mới được yên tâm ngồi ghi lại bài pháp này. Vậy những gì Thầy sắp sửa dạy cho con, cũng như Thầy đã dạy cho Mật Hạnh và quý Thầy trong thất.Mật Hạnh đã đặt trọn niềm tin ở Thầy từ lúc đến với Thầy mới 7 - 8 tuổi cho đến ngày hôm nay. Vì thế, Thầy dạy đâu Mật Hạnh cố gắng thực hiện đến đó và thực hiện rất đúng lời dạy, không bao giờ làm sai!Do sự không hành sai và cố gắng năng nổ tu tập, giờ giấc nghiêm túc, chịu khó sống độc cư, không nói",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2003",
+        "page_num": "3",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "THẦY THÍCH MẬT HẠNH TỌA THIỀN",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2004",
+        "page_num": "4",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "chuyện với ai, dù là bạn bè thân thuộc, dù là cha mẹ anh em ruột thịt. Có ai hỏi, có ai nói điều gì thì chỉ cười gật đầu mà thôi, ít trả lời lại, thường sống thui thủi một mình trong thất và tìm mọi cách tránh né bạn bè. Đó là thực hiện những lời dạy của Thầy và rất tinh tấn không làm sai.Còn hầu hết tất cả các tu sĩ cũng như cư sĩ về tu hành với Thầy đều không tu đúng lời dạy của Thầy: ăn uống thì lặt vặt, không điều độ; ngủ nghỉ tùy theo hứng riêng; sống độc cư thì không nghiêm túc, lén lút nói chuyện với bạn bè, với khách thập phương, với dòng họ bà con thân thuộc.Vì thế, trải qua 7 - 8 năm trời tu hành chẳng ra gì. Giờ đây, nhìn lại gương Mật Hạnh, lấy đó mà làm khuôn mẫu để tu hành giải thoát.Cho nên, về đức hạnh Mật Hạnh cũng hơn ai hết; về thiền định thì cũng khó có ai sánh bằng. Nhờ tin ở Thầy mới có được như ngày hôm nay.Còn riêng tất cả các người khác không đủ niềm tin ở Thầy nên không thực hành đúng lời dạy, tự ý tu theo ý mình, do đó nên sự ra đi của họ không thể tránh khỏi. Cũng vì vậy, mà con đường tu hành họ không thành tựu, không có kết quả.Này con, con cũng vậy! Con hãy đặt trọn niềm tin ở Thầy! Thầy sẽ dẫn dắt con đến nơi, đến chốn, giải thoát hoàn toàn. Tuy rằng, con không được Thầy trực tiếp hướng dẫn như Mật Hạnh nhưng ngày nào đó,",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2005",
+        "page_num": "5",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "con cũng sẽ được trực tiếp hướng dẫn.Bây giờ, những gì Thầy dạy trong băng, con cố gắng thực hành. Cái gì chưa hiểu hoặc chưa thực hành được, hoặc thực hành sai thì nên viết thư hỏi Thầy, hay mỗi tháng về tu viện một lần trực tiếp thưa hỏi để thấu rõ cách thức tu tập.Này con, Thầy mong con cũng sẽ tu tập được như Mật Hạnh về đạo đức cũng như về thiền định. Vậy con hãy lắng nghe! Lắng nghe cho kỹ để tiếp nhận đầy đủ lời dạy của Thầy.Con là một đứa trẻ sinh ra trong một gia đình đầy đủ phước báu. Đó là do tiền kiếp của con đã khéo tạo nhiều điều lành. Nếu con không được tu tập và rèn luyện về Đức Hạnh Giải Thoát thì sự hưởng thọ phước báu của con sẽ mòn dần cho đến khi không còn nữa.Vậy con hãy cố gắng siêng năng tu tập những điều Thầy dạy. Nhờ phước báu sẵn có, con hãy cố gắng học tập để sau này con có một nghề nghiệp chuyên môn. Nghề nghiệp ấy, giúp cho tâm hồn con đẹp đẽ và cao quý, nghề thầy thuốc, “Lương y như từ mẫu”. Nghề ấy giúp con và mọi người thể hiện lòng thương yêu chân thật trong đạo Phật. Nghề nghiệp ấy con đã chọn là để bàn tay và tâm hồn con xoa dịu và băng bó vết thương đau của mọi người. Không có gì cao quý bằng một y bác sĩ có lương tâm trong nghề nghiệp, với lòng thương yêu chân thật đối với bệnh nhân.",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2006",
+        "page_num": "6",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "Này con, con cứ tưởng tượng và hình dung một người bệnh phổi, là một thứ bệnh truyền nhiễm mà ai cũng sợ. Bệnh nhân vì sợ nước lâu ngày không tắm, mồ hôi của bệnh nhân rất khó chịu. Lúc bấy giờ, bệnh nhân đang cơn nguy ngập, miệng và mũi ra máu làm ngạt thở. Nếu không nhanh chóng và tận tâm trong nghề nghiệp thì bệnh nhân sẽ tử vong dễ dàng.Bác sĩ, một y bác sĩ tuổi trẻ khoảng 40 tuổi trở lại ở Bệnh viện Lao Tây Ninh, lúc bấy giờ không còn kịp sử dụng dụng cụ y khoa, bác sĩ ôm ngay bệnh nhân như ôm một người thân của mình sắp từ trần, kê miệng nút máu trong mũi và miệng để kịp thời cứu một mạng người. Một hành động này, một y bác sĩ thiếu lương tâm không thể làm được.Những gì không ai làm được mà chúng ta làm được là những điều đáng ca ngợi.Một y bác sĩ “Thiền sư” là một người phải đầy đủ đức hạnh, phải có đầy đủ lương tâm nghề nghiệp và còn phải có thiền định không thể thiếu được.Vậy hôm nay, Thầy khuyên con cố gắng học tập nghề y, Bác sĩ. Biết rằng, con phải đèn sách vất vả phải chịu khó nhiều năm tháng để có một nghề nghiệp chuyên môn và cao quý.Trong thời gian này, Thầy dạy con và giúp con rèn luyện tu tập đúng cách để con có một trí tuệ thông minh sáng suốt. Nhờ đó, sự học hành của con có dễ dàng hơn và cũng nhờ đó tâm hồn con buông xả những việc không đâu khiến cho con minh mẫn,",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2007",
+        "page_num": "7",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "an vui, thanh thoát để học tập, để trở thành những đứa con hiếu thảo trong gia đình, ngoài xã hội là con người có đạo đức.Nhưng con phải hiểu, những gì đẹp đẽ và cao quý đều phải có một sự bền chí vững lòng, kiên trì rèn luyện tu tập thì mới có được. Không thể thiếu sự rèn luyện tu tập mà có được, nhất là cái đẹp đẽ và cao quý của Đạo Đức Giải Thoát trong tâm hồn của con người khiến cho cá nhân có một niềm vui an lạc, một gia đình đầy hạnh phúc, một xã hội tràn ngập lòng thương yêu.Này con, muốn được vậy thì không thể thiếu sự siêng năng và hằng ngày phải tinh tấn khắc phục với chính thân và tâm của con. Trong khi rèn luyện thân tâm Đạo Đức Giải Thoát có 3 điều con cần phải ghi nhớ. Con có nhớ chăng?- Điều thứ nhất: Con phải chịu khó xét lại trong ba hành động của con do từ ý con nghĩ gì? Miệng con sắp nói gì? Thân con sẽ làm gì? Nếu mọi việc nó nghĩ, nó suy nghĩ là một điều thiện, tức là ý con nghĩ điều đó khiến cho mọi người được an vui quanh con và chính con cũng được an vui thì con cố gắng thực hiện ra bằng lời nói, bằng hành động của từ thân con, miệng con, để tạo sự an vui cho con, cho mọi người.Bằng ngược lại, ý nghĩ đó là điều ác, tức là sự suy nghĩ đó sẽ khiến con không vui, phiền não, sân hận, đau khổ và người khác cũng vậy thì con nên chấm dứt ngay trong ý đó, đừng để phát ra lời nói hay hành",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2008",
+        "page_num": "8",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "động của thân khiến cho cả bầu trời đầy u ám và đau khổ.Vì lẽ đó, con phải để ý từng giây từng phút để khắc phục chính trong con, chính con trong những lỗi lầm dù là những lỗi rất nhỏ.Con suy tư, ở trong cái thế gian của loài người không có một bậc Thánh nào mà không có lỗi. Có lỗi mà biết khắc phục không tạo lỗi nữa, biết ăn năn chừa bỏ, bỏ những lỗi, đó là những bậc Thánh.Còn ngược lại, phàm phu có lỗi thì luôn luôn lúc nào cũng che giấu lỗi mình bằng cách lý luận che đậy gạt mình, gạt người và họ lầm tưởng rằng mình không bao giờ có lỗi, chỉ lỗi ở người khác mà thôi.Bởi vậy, điều thứ nhất này con phải cẩn thận cảnh giác luôn luôn lúc nào cũng phải sửa mình và cố gắng ăn năn chừa bỏ những gì con đã làm lỗi.- Điều thứ hai: Con phải khắc phục sự lười biếng, con phải tập luyện ý chí cương quyết và nhẫn nại. Lúc nào con cũng phải đem hết nghị lực chiến đấu với tâm lười biếng, với tâm không tùy thuận, với tâm ích kỷ nhỏ mọn, với tâm ganh tỵ hơn thua, v.v.- Điều thứ ba: Con phải giữ gìn giờ giấc nghiêm túc.Khi con đặt ra thời khóa: Học, tu và làm việc giúp mẹ con như lau nhà, bếp nước, sửa sang lại ngăn nắp trong các phòng. Khi sửa sang con phải thưa hỏi ba mẹ con, nhất là nơi ngủ nghỉ và phòng học của con",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2009",
+        "page_num": "9",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "phải ngăn nắp, phải thứ tự, đơn giản nhưng sạch sẽ, không chưng dọn rườm rà, kiểu cách. Thì giờ nào làm việc nấy, không được bỏ trôi qua, hoặc làm lộn xộn: giờ học ra giờ làm, giờ làm ra giờ tu, giờ tu ra giờ chơi, nghĩa là, giờ này làm việc khác, giờ khác làm việc này. Nếu con làm việc như vậy, sau này sẽ khiến con trở thành người thiếu ngăn nắp. Cuộc sống của con trở thành bề bộn, lộn xộn và bừa bãi.Về các môn học, những môn học nào con thấy yếu và thua chúng bạn, con nên xin ba mẹ con cho con học thêm môn đó. Đừng nên nhờ vả vào bạn bè vì lòng tự trọng của con. Con phải hiểu, bạn bè khi nhờ họ dạy con, họ sẽ khinh khỉnh và xem thường con. Thà con dạy họ học hơn là để họ dạy con. Trong sự học phải có sự ganh đua, do vì thế mà lời nói hay hành động họ sẽ làm cho tâm con bất an. Điều này chỉ được áp dụng trong trường học, không được áp dụng vào đường đời.Vì sao?Ngoài đời, trong mọi công việc làm ăn của mọi người đều có những kinh nghiệm riêng tư trên thương trường, trên ngành nghề. Vì thế, con phải hạ mình để học, để học bài, học những điều hay, tránh những điều dở để thành công trong sự nghiệp.Còn trong học đường thì khác, họ không bao giờ dạy con qua sự hiểu biết chân thật để họ hơn con, giỏi hơn con. Vậy con nên xin ba mẹ con bỏ tiền mời gia sư chuyên môn đến dạy và hướng dẫn bài làm,",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    },
+    {
+        "page_id": "2010",
+        "page_num": "10",
+        "from_chapter": "Đạo đức giải thoát",
+        "content": "TRƯỞNG LÃO VÀ THẦY MẬT HẠNH",
+        "book_join": {
+            "name": "page",
+            "parent": "2"
+        }
+    }
+]
+
